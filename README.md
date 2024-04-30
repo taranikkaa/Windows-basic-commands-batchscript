@@ -1,5 +1,5 @@
 # Ex08-Windows-basic-commands-batchscript
-### Sri Harish B 212223220110
+### TARANIKKA A 212223220115
 # AIM:
 To execute Windows basic commands and batch scripting
 
